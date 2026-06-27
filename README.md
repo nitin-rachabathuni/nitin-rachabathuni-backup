@@ -183,16 +183,58 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — from Wh
 
 ---
 
-## 🧩 Featured repos
+## 🧩 Featured repos — enterprise & OSS
+
+<p align="center">
+<b>Flagship work on GitHub</b> · Adobe EXL · Storybook · Cap · Archestra · property-design-cad
+</p>
 
 <div align="center">
 
+<!-- Enterprise & portfolio -->
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/portfolio)
-[![AiAgentRunJS](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=AiAgentRunJS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/AiAgentRunJS)
-[![n8n-workflows](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=n8n-workflows&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/n8n-workflows)
-[![trading-agent](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=trading-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/trading-agent)
+[![exlm-fork](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=exlm-fork&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/adobe-experience-league/exlm)
+[![property-design-cad](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=property-design-cad&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/property-design-cad)
+[![exlm-converter](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=exlm-converter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/adobe-experience-league/exlm-converter)
+
+<!-- Major OSS contributions -->
+[![storybook](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=storybook&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/storybookjs/storybook)
+[![Cap](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=Cap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/CapSoftware/Cap)
+[![archestra](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=archestra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/archestra-ai/archestra)
+[![tscircuit](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=tscircuit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/tscircuit/tscircuit)
 
 </div>
+
+<details>
+<summary><b>🔗 Upstream org repos (where PRs land)</b></summary>
+
+<br/>
+
+| Project | Upstream | My case study |
+|---------|----------|---------------|
+| **Adobe Experience League** | [adobe-experience-league/exlm](https://github.com/adobe-experience-league/exlm) · [exlm-converter](https://github.com/adobe-experience-league/exlm-converter) | [experienceleague.adobe.com](https://www.nitin-rachabathuni.com/project/experienceleague) |
+| **Storybook** | [storybookjs/storybook](https://github.com/storybookjs/storybook) | UI workshop · component isolation |
+| **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open-source Loom alternative |
+| **Archestra AI** | [archestra-ai/archestra](https://github.com/archestra-ai/archestra) | Enterprise AI · MCP registry |
+| **tscircuit** | [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) | Electronics in TypeScript + React |
+
+</details>
+
+<details>
+<summary><b>🤖 AI & automation repos</b></summary>
+
+<br/>
+
+<div align="center">
+
+[![n8n-workflows](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=n8n-workflows&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/n8n-workflows)
+[![trading-agent](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=trading-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/trading-agent)
+[![job-hunt-automation](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=job-hunt-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/job-hunt-automation)
+[![AiAgentRunJS](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=AiAgentRunJS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/AiAgentRunJS)
+
+</div>
+
+</details>
 
 ---
 
@@ -210,12 +252,14 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — from Wh
 
 ## 🌐 OSS & community
 
-Recent contributions: **Storybook** · **Cap** · **tscircuit** · **Archestra AI** · **Adobe Experience League** · **Hexmos git-lrc**
+Active on **Adobe Experience League** · **Storybook** · **Cap** · **tscircuit** · **Archestra AI** · **property-design-cad**
 
 <p align="center">
+<img src="https://img.shields.io/badge/Adobe_Experience_League-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe EXL"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
-<img src="https://img.shields.io/badge/Open_Source-3245ff?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS"/>
-<img src="https://img.shields.io/badge/Code_Review-8952ee?style=flat-square&logo=githubactions&logoColor=white" alt="Code review"/>
+<img src="https://img.shields.io/badge/Cap-181717?style=flat-square&logo=loom&logoColor=white" alt="Cap"/>
+<img src="https://img.shields.io/badge/Archestra_AI-3245ff?style=flat-square&logo=openai&logoColor=white" alt="Archestra"/>
+<img src="https://img.shields.io/badge/tscircuit-8952ee?style=flat-square&logo=typescript&logoColor=white" alt="tscircuit"/>
 </p>
 
 ---
