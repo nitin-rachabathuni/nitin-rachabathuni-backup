@@ -1,6 +1,6 @@
 # Nitin Rachabathuni
 
-**Senior Full-Stack & Agentic AI Engineer** · Headless Commerce · FinTech · LangGraph · MCP
+**Senior Full-Stack & Agentic AI Engineer** · Headless Commerce · FinTech · LangGraph · MCP · Remote worldwide
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitin--rachabathuni.com-8952ee?style=flat&logo=vercel&logoColor=white)](https://www.nitin-rachabathuni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-rachabathuni/)
