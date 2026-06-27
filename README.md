@@ -187,8 +187,10 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — from Wh
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=Nitin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/Nitin)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/portfolio)
 [![AiAgentRunJS](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=AiAgentRunJS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/AiAgentRunJS)
+[![n8n-workflows](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=n8n-workflows&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/n8n-workflows)
+[![trading-agent](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=trading-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/trading-agent)
 
 </div>
 
